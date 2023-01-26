@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laytion
-- 👀 I’m interested in investing.
-- 🌱 I’m currently learning coding, math and some finance for investing.
+- 👀 I’m interested in DS
+- 🌱 I’m currently learning programming for web-dev and DS.
 - 💞️ I’m not looking to collaborate just yet.
 - 📫 How to reach me: talshijira@gmail.com
 
